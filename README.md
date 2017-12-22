@@ -24,3 +24,12 @@ Setelah itu program terus diberi command "c" pada GDB hingga akhir program
 ![](/AKHIR.png)
 
 GDB akan mengeluarkan hasil akhir dari program yang saya buat
+
+Update 22 Desesmber 2017
+
+Coba Disass Function  dalam main program 
+![](/6.png)
+
+Hasil Disass
+![](/5.png)
+
